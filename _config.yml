@@ -7,7 +7,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 defaults:
   -
